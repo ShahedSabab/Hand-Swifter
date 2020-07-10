@@ -6,5 +6,7 @@ A system to replace the traditional mouse and keyboard that only uses hand gestu
 • Implements the Kalman filter for smoothing. <br>
 • Captures hand gesture with leap motion device.<br>
 
+Publication Source: [Check the publication](https://ieeexplore.ieee.org/abstract/document/8628099)
+
 # How to run
 Users need to plug-in a leap motion device and a webcam to run this system.
